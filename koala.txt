@@ -1,0 +1,7 @@
+The koala illustration is based on the beautiful logo presented on this page:
+
+https://designtaxi.com/news/389192/Minimalist-Animal-Logos-Made-With-Simple-Lines-Negative-Space-Basic-Shapes/
+
+The picture was then passed to pngtosvg.com to get an svg and scaled properly.
+
+Artist: Quillo Creative
